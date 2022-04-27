@@ -43,3 +43,67 @@
 
 - The HTML < form> element is used to create an HTML form for user input.
 - The < form> element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
+
+### The < input> Element
+
+- An < input> element can be displayed in many ways, depending on the type attribute.
+  ex: 1. **< input type="text">** Displays a single-line text input field.
+
+  2. **< input type="radio">** Displays a radio button (for selecting one of many choices.)
+  3. **< input type="checkbox">** Displays a checkbox (for selecting zero or more of many choices)
+  4. **< input type="submit">** Displays a submit button (for submitting the form)
+  5. **< input type="button">** Displays a clickable button
+
+## HTML Form Attributes
+
+### The Action Attribute
+
+- The action attribute defines the action to be performed when the form is submitted.
+- Usually, the form data is sent to a file on the server when the user clicks on the submit button.
+
+## what is Placeholder text?
+
+- Placeholder text is what is displayed in your input element before your user has inputted anything.
+
+---
+
+# CSS
+
+## HTML style Attribute
+
+- The style attribute specifies an inline style for an element.
+
+- The style attribute will override any style set globally, e.g. styles specified in the < style> tag or in an external style sheet.
+
+## CSS properties
+
+![alt text](img/property.jpeg)
+
+- CSS properties are the styles used on specified selectors. They are written before values in the CSS ruleset and are separated from property values by a colon.
+
+## CSS classes
+
+![alt text](img/css_class.png)
+
+- The HTML class attribute is used to specify a class for an HTML element.
+- The class attribute is often used to point to a class name in a style sheet. It can also be used by a JavaScript to access and manipulate elements with the specific class name.
+
+## CSS ID
+
+- The #id selector styles the element with the specified id.
+- An id also has a higher specificity (importance) than a class so if both are applied to the same element and have conflicting styles, the styles of the id will be applied.
+
+- #id {
+  css declarations;
+  }
+
+## HTML Block and Inline Elements
+
+- **_Block-level Elements:_**
+  - A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+  - A block-level element always takes up the full width available
+  - Two commonly used block elements are: < p> and < div>.
+- **_Inline Elements:_**
+  - An inline element does not start on a new line.
+  - An inline element only takes up as much width as necessary.
+  - This is a < span> element inside a paragraph.
