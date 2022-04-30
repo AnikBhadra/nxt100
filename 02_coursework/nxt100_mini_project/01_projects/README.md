@@ -37,3 +37,14 @@ The structure above shows the project structure of flexbox101 02_cards.
 └── README.md
 
 The structure above shows the project structure of flexbox101 03_flexbox-grid.
+
+.
+├── flexbox101
+│   ├── 00_basics
+│   ├── 01_nested-flexbox
+│   ├── 02_cards
+│   ├── 03_flexbox-grid
+│   └── 04_flexbox-layout
+└── README.md
+
+he structure above shows the project structure of flexbox101 04_flexbox-layout.
