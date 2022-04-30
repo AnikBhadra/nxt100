@@ -27,3 +27,13 @@ flexbox101 basics has been done by following from this [notion file](https://nxt
 └── README.md
 
 The structure above shows the project structure of flexbox101 02_cards.
+
+.
+├── flexbox101
+│   ├── 00_basics
+│   ├── 01_nested-flexbox
+│   ├── 02_cards
+│   └── 03_flexbox-grid
+└── README.md
+
+The structure above shows the project structure of flexbox101 03_flexbox-grid.
