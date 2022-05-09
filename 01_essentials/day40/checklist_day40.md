@@ -1,4 +1,4 @@
-# Day 35 [19/04/22]
+# Day 40 [19/04/22]
 
 - [x] Journal Entry (Part 1)
 - [x] Plan your day.
