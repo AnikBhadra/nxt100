@@ -60,3 +60,16 @@ The structure above shows the project structure of flexbox101 04_flexbox-layout.
 └── README.md
 
 The structure above shows the project structure of flexbox101 05_flexbox-layout-1.
+
+.
+├── flexbox101
+│   ├── 00_basics
+│   ├── 01_nested-flexbox
+│   ├── 02_cards
+│   ├── 03_flexbox-grid
+│   ├── 04_flexbox-layout
+│   ├── 05_flexbox-layout-1
+│   └── 06_freecodecamp-project
+└── README.md
+
+The structure above shows the project structure of flexbox101 06_freecodecamp-project.
