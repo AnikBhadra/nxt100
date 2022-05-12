@@ -1,4 +1,4 @@
-# Journal - Day 42 [24/04/22]
+# Journal - Day 43 [27/04/22]
 
 <!-- ctrl + k v - to preview the .md file  -->
 
@@ -24,14 +24,19 @@
 
 I am grateful for:
 
-1. Having a nice family.
-2. Having a elder brother.
+1. play cricket
+2. watching football.
 
 ## 2 - List all the things your learnt and how it can be used.
 
 <!-- [Example]: git add - can be used to add affected files in the staging area before commit. -->
 
-| Topic / Concept | Usage        |
-| --------------- | ------------ |
-| Ctrl+F4, Ctrl+W | Close editor |
-| Ctrl+K F        | Close folder |
+| Topic / Concept | Usage                                                                                      |
+| --------------- | ------------------------------------------------------------------------------------------ |
+| ls -a           | Lists hidden files as well                                                                 |
+| ls -al          | Lists files and directories with detailed information like permissions,size, owner, etc.   |
+| cd /            | Move to the root directory                                                                 |
+| cat > filename  | Creates a new file                                                                         |
+| sudo            | Allows regular users to run programs with the security privileges of the superuser or root |
+| rm filename     | Deletes a file                                                                             |
+| rmdir           | Deletes a directory                                                                        |
