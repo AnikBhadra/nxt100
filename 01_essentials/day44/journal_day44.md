@@ -1,4 +1,4 @@
-# Journal - Day 43 [27/04/22]
+# Journal - Day 44 [28/04/22]
 
 <!-- ctrl + k v - to preview the .md file  -->
 
