@@ -73,3 +73,18 @@ The structure above shows the project structure of flexbox101 05_flexbox-layout-
 └── README.md
 
 The structure above shows the project structure of flexbox101 06_freecodecamp-project.
+
+.
+├── flexbox101
+│   ├── 00_basics
+│   ├── 01_nested-flexbox
+│   ├── 02_cards
+│   ├── 03_flexbox-grid
+│   ├── 04_flexbox-layout
+│   ├── 05_flexbox-layout-1
+│   └── 06_freecodecamp-project
+├── js101
+│   └── 01_color-fliper
+└── README.md
+
+The structure above shows the project structure of js101 01_color-flipper.
