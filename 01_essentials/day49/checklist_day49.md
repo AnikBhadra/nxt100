@@ -1,9 +1,9 @@
-# Day 49 [07/05/22]
+# Day 49 [08/05/22]
 
 - [x] Journal Entry (Part 1)
 - [x] Plan your day.
   - [x] -wesbos grid video.
-- [x] Journal Entry (Part 2)
+- [ ] Journal Entry (Part 2)
 - [x] Commit the changes. Each commit should contain the above sections (updated).
 - [x] Celebrate
 <!-- [x] to tick -->

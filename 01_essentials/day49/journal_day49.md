@@ -1,4 +1,4 @@
-# Journal - Day 48 [07/05/22]
+# Journal - Day 49 [08/05/22]
 
 <!-- ctrl + k v - to preview the .md file  -->
 
@@ -24,8 +24,8 @@
 
 I am grateful for:
 
-1. play cricket
-2. watching football.
+1. learning css grid.
+2. watching cricket.
 
 ## 2 - List all the things your learnt and how it can be used.
 
