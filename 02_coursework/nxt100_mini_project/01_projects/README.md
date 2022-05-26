@@ -104,3 +104,18 @@ The structure above shows the project structure of js101 01_color-flipper.
 └── README.md
 
 The structure above shows the project structure of js101. 02_counter.
+
+.
+├── flexbox101
+│   ├── 00_basics
+│   ├── 01_nested-flexbox
+│   ├── 02_cards
+│   ├── 03_flexbox-grid
+│   ├── 04_flexbox-layout
+│   ├── 05_flexbox-layout-1
+│   └── 06_freecodecamp-project
+├── grid101
+│   ├── 00_basics
+│   └── 01_website-layouts
+
+The structure above shows the project structure of grid101 - 00_basics and 01_website-layouts.
