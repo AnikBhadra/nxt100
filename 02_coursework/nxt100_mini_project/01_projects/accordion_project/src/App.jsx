@@ -1,3 +1,4 @@
+import Ans from '../components/Ans'
 import Question from '../components/Question'
 import './App.css'
 
@@ -5,7 +6,8 @@ function App() {
 
   return (
     <div className="App">
-      <Question />
+      {/*  <Question />  */}
+      <Ans />
     </div>
   )
 }

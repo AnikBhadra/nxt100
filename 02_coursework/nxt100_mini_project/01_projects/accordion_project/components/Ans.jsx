@@ -1,7 +1,6 @@
-import React, { useState } from 'react'
+import React from 'react'
 
-function Question() {
-
+function Ans() {
     const questions = [
         {
             questionText: 'What is the capital of France?',
@@ -53,16 +52,16 @@ function Question() {
                         <div className="question-count">
                             <span>Question 1</span>/{questions.length}
                         </div>
-                        {/* we can access first question using questions[0] */}
                         <div className="question-text">
                             {questions[0].questionText}
                         </div>
                     </div>
+                    {/* We can access first question's answers using questions[0].answerOptions.map(answer => ....) */}
                     <div className="answer-section">
-                        <button>New York</button>
-                        <button>London </button>
-                        <button>Paris</button>
-                        <button>Dublin</button>
+                        <button>{questions[0].answerOptions[0].answerText}</button>
+                        <button>{questions[0].answerOptions[1].answerText}</button>
+                        <button>{questions[0].answerOptions[2].answerText}</button>
+                        <button>{questions[0].answerOptions[3].answerText}</button>
                     </div>
                 </>
             )}
@@ -70,5 +69,4 @@ function Question() {
     )
 }
 
-
-export default Question
+export default Ans
